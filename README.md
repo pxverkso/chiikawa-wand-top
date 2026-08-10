@@ -1,4 +1,4 @@
-## Chiikawa Spiky Weapon Top
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/53fc85a7-1410-4eee-ac49-2e0602a0570d" />## Chiikawa Spiky Weapon Top
 
 <img width="540" height="925" alt="10202" src="https://github.com/user-attachments/assets/94f32984-19d3-4de4-b82d-05d7e259c4aa" />
 
@@ -15,3 +15,9 @@ Please print the Horn Tip part 2 times to assemble the full model. Supports are 
 
 ## [ONSHAPE](https://cad.onshape.com/documents/ab947ac4ad0ba6d34bfc6ed3/w/915d7e17ec1c4e6a7514bc60/e/39826fc1ff6c13eb6306683d?renderMode=0&uiState=6a79256e5d2a86a2899b5435)
 ## [PRINTABLES](https://www.printables.com/model/1805772-the-head-of-the-spiky-wand-weapon-in-chiikawa)
+
+
+| Filament | Color | Type | LINK | Price (To build) USD | Price (Total) USD |
+|:---------|:------|:-----|:-----|---------------------:|------------------:|
+| Panchroma™ Matte PLA | Cotton White | 1.75MM 1 KG | https://shop.polymaker.com/products/matte-pla | 6.65 | 18.99 |
+| PLEASE NOTE THAT ANY FILAMENT CAN BE USED TO PRINT THIS MODEL, THIS IS WHAT I PRINTED IT WITH, YOU DONT NEED THIS FILAMENT SPECIFICALLY | | | | | |
