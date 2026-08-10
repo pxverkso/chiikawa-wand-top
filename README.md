@@ -1,4 +1,4 @@
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/53fc85a7-1410-4eee-ac49-2e0602a0570d" />## Chiikawa Spiky Weapon Top
+## Chiikawa Spiky Weapon Top
 
 <img width="540" height="925" alt="10202" src="https://github.com/user-attachments/assets/94f32984-19d3-4de4-b82d-05d7e259c4aa" />
 
