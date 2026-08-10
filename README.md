@@ -4,7 +4,8 @@
 
 This model is a cosplay prop for the famed Japanese animation Chiikawa. I am publishing this under no official licensing and I am not affiliated with the original creators of this show. 
 
-## Why I made this:
+##
+Why I made this:
 I figured it would be a fun project for me to work on as I am a huge fan of Chiikawa. I wanted to share it with other people so others could enjoy the prop as well. 
 
 ## Printing Instructions: 
